@@ -11,7 +11,7 @@ int main()
             printf("\n");
 
         }
-        printf("a");
+        printf("a"); // replaced \2 by random letter to test on inux.
     }
     return 0;
 }
